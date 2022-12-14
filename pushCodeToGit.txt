@@ -10,6 +10,7 @@ Cách sử dụng git/github:
 	git push: đồng bộ từ máy lên mạng
 
 	git log, git status: check trạng thái file
+	git remote: kết nối với remote repos
 
 -Cách đẩy code lên github:
 	b1: tạo 1 repos mới trên github
