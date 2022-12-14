@@ -1,0 +1,25 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+#define ll long long
+
+ll ltnp(int a, int b) {
+    ll res = 1;
+    // xet tung bit cua b
+    while (b != 0) {
+        if (b % 2 == 1) {
+            // bit la so le: bit cuoi cung cua b la so 1
+            res *= a;
+        }
+        a *= a;
+        b /= 2;
+    } 
+    return res;
+}
+
+int main() {
+    int a,b;
+    cin >> a >> b;
+    cout << ltnp(a,b);
+    return 0;
+}
