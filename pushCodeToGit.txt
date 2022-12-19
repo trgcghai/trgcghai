@@ -17,4 +17,5 @@ Cách sử dụng git/github:
 	b2: 'git init' để tạo repo trên máy ở folder cần tạo
 	b3: 'git add' , 'git add .' để thêm tất cả thay đổi chuẩn bị commit
 	b4: 'git commit -m (message)' để thêm thay đổi vào staging area
-	b5: làm theo 2 dòng cuối trên github (main thành master)
+	b5: 'git remote' add origin (đường link của repos)
+	b6: 'git push' -u origin master
