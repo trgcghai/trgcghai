@@ -13,6 +13,6 @@ You can click the Preview link to take a look at your changes.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trgcghai&show_icons=true&theme=github_dark_dimmed)
 
 # 👨‍💻 Tech Stack:
-<div align='center'>
- <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,html,css,nodejs,npm,mongodb,bootstrap,redux,postman&perline=6" alt="Tech Stack" /> 
+<div>
+ <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,html,css,nodejs,npm,mongodb,bootstrap,redux,postman&perline=50" alt="Tech Stack" /> 
 </div>
