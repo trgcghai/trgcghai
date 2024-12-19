@@ -7,6 +7,7 @@ Hello! My name is Truong Cong Hai, and I am currently studying at Industrial Uni
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trgcghai&show_icons=true&theme=github_dark_dimmed)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trgcghai&layout=compact&theme=github_dark_dimmed&langs_count=6&show_icons=true)
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=trgcghai&layout=compact&theme=github_dark_dimmed&langs_count=6&show_icons=true'>
 
 # 👨‍💻 Tech Stack
 <div>
