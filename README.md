@@ -1,5 +1,7 @@
-👋 Hi, I’m Truong Cong Hai
-🌱 I’m currently studying software engineerin
+# 📖 About me
+<p>
+Hello! My name is Truong Cong Hai, and I am currently studying at Industrial University of Ho Chi Minh city. I am majoring in Information Technology, with a specialization in Software engineer. My studies focus on develop applications, design and deploy systems. I am passionate about develop web application, study about AI and data engineer. I look forward to applying my knowledge and skills in web development or AI and data engineer after graduation.
+</p>
 
 # 📊 GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trgcghai&show_icons=true&theme=github_dark_dimmed)
