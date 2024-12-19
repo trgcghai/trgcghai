@@ -12,5 +12,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trgcghai&show_icons=true&theme=github_dark_dimmed)
 
-# 📊 GitHub Streaks:
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=trgcghai&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+# 👨‍💻 Tech Stack:
+<div>
+ <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,html,css,nodejs,gql,postgres&perline=5" alt="Tech Stack" /> 
+</div>
