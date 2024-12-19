@@ -7,6 +7,10 @@ Hello! My name is Truong Cong Hai, and I am currently studying at Industrial Uni
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trgcghai&show_icons=true&theme=github_dark_dimmed)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trgcghai&layout=compact&theme=github_dark_dimmed&langs_count=6&show_icons=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=trgcghai&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark_dimmed&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=trgcghai&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark_dimmed&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 # 👨‍💻 Tech Stack
 <div>
@@ -19,3 +23,11 @@ Hello! My name is Truong Cong Hai, and I am currently studying at Industrial Uni
 [![LinkedIN](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hai-truong-cong-86b508250)
 
 
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
