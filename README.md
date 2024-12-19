@@ -13,4 +13,4 @@ You can click the Preview link to take a look at your changes.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trgcghai&show_icons=true&theme=github_dark_dimmed)
 
 # 📊 GitHub Streaks:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=trgcghai)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=trgcghai)
