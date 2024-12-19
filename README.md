@@ -18,14 +18,6 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 # 📧 Contact Me
-<div >
-    <a href="https://www.facebook.com/trcg.hai151204" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>&nbsp;&nbsp;
-   <a href="https://medium.com/@dbalmas7" target="_blank">
-      <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&color=black"/>
-   </a>&nbsp;&nbsp;
-    <a href="https://stackoverflow.com/users/14831834/daniel-bellmas" target="_blank">
-      <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=black">
-    </a>&nbsp;&nbsp;
-</div> 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/trcg.hai151204) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](conghai.tpma@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hai-truong-cong-86b508250)
