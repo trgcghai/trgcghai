@@ -8,8 +8,8 @@ Hello! My name is Truong Cong Hai, and I am currently studying at Industrial Uni
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trgcghai&layout=compact&theme=github_dark_dimmed&langs_count=6&show_icons=true)
 <div>
-<img height='500' width='700' src='https://github-readme-stats.vercel.app/api?username=trgcghai&show_icons=true&theme=github_dark_dimmed'>
-<img height='500' width='500' src='https://github-readme-stats.vercel.app/api/top-langs/?username=trgcghai&layout=compact&theme=github_dark_dimmed&langs_count=6&show_icons=true'>
+<img height='300' width='500' src='https://github-readme-stats.vercel.app/api?username=trgcghai&show_icons=true&theme=github_dark_dimmed'>
+<img height='300' width='300' src='https://github-readme-stats.vercel.app/api/top-langs/?username=trgcghai&layout=compact&theme=github_dark_dimmed&langs_count=6&show_icons=true'>
 </div>
 
 # 👨‍💻 Tech Stack
