@@ -11,3 +11,6 @@ You can click the Preview link to take a look at your changes.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trgcghai&show_icons=true&theme=github_dark_dimmed)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trgcghai&show_icons=true&theme=github_dark_dimmed)
+
+# 📊 GitHub Streaks:
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
