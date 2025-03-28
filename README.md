@@ -11,7 +11,7 @@ Hello! My name is <strong>Truong Cong Hai</strong>, and I am currently studying 
 
 # 👨‍💻 Tech Stack
 <div>
- <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,html,css,nodejs,npm,mongodb,bootstrap,redux,postman&perline=50" alt="Tech Stack" /> 
+ <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css,nodejs,npm,mongodb,bootstrap,redux,postman&perline=50" alt="Tech Stack" /> 
 </div>
 
 # 📧 Contact Me
